@@ -7,7 +7,7 @@
 
 ## Guess My Number Game
 
-**Objective:**
+**Objective:** 
 Program a Guess My Number game where the user tries to guess a randomly generated number.
 
 **Instructions:**
